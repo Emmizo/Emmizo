@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emmizo
-- 👀 I’m interested in software development using ReactJS/Laravel framework and wordpress
+- 👀 I’m interested in software development using ReactJS/PHP/Laravel framework and WordPress
 - 🌱 I’m currently learning on Flutter
 - 💞️ I’m looking to collaborate on software Development
 - 📫 How to reach me,  contact me on emmizokwizera@gmail.com

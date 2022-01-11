@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emmizo
-- 👀 I’m interested in software development using react and Laravel framework
-- 🌱 I’m currently learning on Pyhon(Django)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software development using ReactJS/Laravel framework and wordpress
+- 🌱 I’m currently learning on Flutter
+- 💞️ I’m looking to collaborate on software Development
 - 📫 How to reach me,  contact me on emmizokwizera@gmail.com
 
 <!---

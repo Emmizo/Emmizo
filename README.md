@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emmizo
+- 👋 Hi, I’m @Kwizera Emmanuel
 - 👀 I’m interested in software development using ReactJS/PHP/Laravel framework and WordPress
 - 🌱 I’m currently learning on Flutter
 - 💞️ I’m looking to collaborate on software Development

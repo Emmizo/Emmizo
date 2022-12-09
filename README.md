@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kwizera Emmanuel
-- 👀 I’m interested in software development using ReactJS/PHP/Laravel framework and WordPress
-- 🌱 I’m currently learning on Flutter
+- 👀 I’m interested in software development using ReactJS/PHP/Laravel framework and also Flutter
 - 💞️ I’m looking to collaborate on software Development
 - 📫 How to reach me,  contact me on emmizokwizera@gmail.com
 
